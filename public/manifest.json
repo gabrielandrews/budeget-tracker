@@ -5,7 +5,6 @@
     "start_url": "./index.html",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
-    "description": "the app to manage your money",
     "icons": [
         {
             "src": "icons/icon-72x72.png",
